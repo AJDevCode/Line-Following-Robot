@@ -68,5 +68,7 @@ Autonomous line following once trained.
 
 ## Technologies Used
 Python
+
 Neural Network (TensorFlow)
+
 Ros2 Humble
