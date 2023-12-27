@@ -1,6 +1,10 @@
 # Line Following Robot with Neural Network
 
-![Line Following Robot Preview](preview.png)
+
+
+https://github.com/AJDevCode/Line-Following-Robot/assets/67168409/09af6c86-23f5-4bb1-84da-b0a03835bba1
+
+
 
 ## Description
 The Line Following Robot with Neural Network is a project designed to create a robot that can autonomously follow a line. Initially, the robot must be manually driven over the line to collect training data for a neural network. After sufficient training data has been provided, the robot can use the neural network to navigate and follow the line autonomously.
@@ -12,8 +16,7 @@ The Line Following Robot with Neural Network is a project designed to create a r
 - [Training](#training)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Prerequisites
 Before you begin, ensure you have the following requirements:
